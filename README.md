@@ -1,5 +1,3 @@
-Telegram Joke Bot
-
 # 🤖 Telegram Joke Bot
 
 A Telegram bot that generates short, punchy jokes on any topic you mention — powered by [LangChain](https://www.langchain.com/), [Groq API](https://groq.com/), and large language models (LLMs). Just mention the bot with a topic, and it will send you a hilarious one-liner.
